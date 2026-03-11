@@ -92,7 +92,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "http://www.away3d.com"
+      "url": "https://github.com/openfl/away3d"
     },
     {
       "name": "flxanimate",
