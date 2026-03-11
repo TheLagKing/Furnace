@@ -87,6 +87,13 @@
       "ref": "main",
       "url": "https://github.com/MAJigsaw77/hxdiscord_rpc"
     },
+	{
+      "name": "away3d",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "http://www.away3d.com"
+    },
     {
       "name": "flxanimate",
       "type": "git",
