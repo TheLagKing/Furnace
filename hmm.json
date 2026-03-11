@@ -91,7 +91,7 @@
       "name": "away3d",
       "type": "git",
       "dir": null,
-      "ref": "main",
+      "ref": "master",
       "url": "https://github.com/openfl/away3d"
     },
     {
