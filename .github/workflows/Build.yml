@@ -19,13 +19,12 @@ jobs:
       - name: Setup Haxe
         uses: krdlab/setup-haxe@master
         with:
-          haxe-version: 4.3.1
+          haxe-version: 4.2.9
 
       - name: Install Libraries
         run: |
           haxelib install hmm --quiet
           haxelib run hmm install --quiet
-          haxelib set hxvlc 1.6.1
 
       - name: Compile hxcpp
         run: |
