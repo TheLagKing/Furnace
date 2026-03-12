@@ -33,11 +33,6 @@
       "type": "haxelib",
       "version": "2.6.4"
     },
-	{
-      "name": "flixel-signals",
-      "type": "haxelib",
-      "version": "3.0.0"
-    },
     {
       "name": "compiletime",
       "type": "haxelib",
