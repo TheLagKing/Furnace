@@ -64,6 +64,7 @@
       "name": "hxvlc",
       "type": "git",
 	  "ref": "main",
+	  "version": "1.6.1",
 	  "url": "https://github.com/MAJigsaw77/hxvlc"
     },
     {
