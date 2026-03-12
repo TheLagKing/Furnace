@@ -175,6 +175,9 @@
 
 	<haxedef name="no-deprecation-warnings"/>
 
+	<!--nicer looking errors-->
+    <haxedef name="message.reporting" value="pretty"/>
+
 	<!-- _________________________________ Additional stuff _______________________________ -->
 
 	<section if="COMPILE_ALL_CLASSES">
