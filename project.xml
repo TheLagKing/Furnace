@@ -2,9 +2,9 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 	<app
-		title="Friday Night Funkin' - Codename Engine" main="funkin.backend.system.Main"
-		file="CodenameEngine" packageName="com.yoshman29.codenameengine"
-		package="com.yoshman29.codenameengine"
+		title="Furnace" main="funkin.backend.system.Main"
+		file="CodenameEngine" packageName="com.yoshman29.furnace"
+		package="com.yoshman29.furnace"
 		version="0.1.0" company="Yoshman29" />
 
 	<!-- 
@@ -38,7 +38,7 @@
 	<window if="mac" allow-high-dpi="true" />
 
 	<!--Mobile-specific-->
-	<window if="mobile" orientation="landscape" fullscreen="true" width="0" height="0" resizable="false"/>
+	<window if="mobile" orientation="landscape" fullscreen="true" resizable="false"/>
 
 	<!--Switch-specific-->
 	<window if="switch" orientation="landscape" fullscreen="true" width="0" height="0" resizable="true" />
