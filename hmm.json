@@ -62,8 +62,9 @@
     },
     {
       "name": "hxvlc",
-      "type": "haxelib",
-      "version": "2.2.5"
+      "type": "git",
+	  "ref": "main",
+	  "url": "https://github.com/MAJigsaw77/hxvlc"
     },
     {
       "name": "hscript",
