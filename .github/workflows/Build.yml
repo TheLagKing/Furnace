@@ -17,14 +17,20 @@ jobs:
           java-version: '17'
 
       - name: Setup Haxe
-        uses: krdlab/setup-haxe@v4
+        uses: krdlab/setup-haxe@v1
         with:
-          haxe-version: 4.2.9
+          haxe-version: 4.3.3
 
       - name: Install Libraries
         run: |
           haxelib install hmm --quiet
           haxelib run hmm install --quiet
+          
+      - name: Install libraries
+        run: |
+          haxelib install lime
+          haxelib install openfl
+          haxelib install flixel
 
       - name: Compile hxcpp
         run: |
