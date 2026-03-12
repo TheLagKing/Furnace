@@ -33,13 +33,13 @@
       "type": "haxelib",
       "version": "2.6.4"
     },
-	{
-		"name": "flixel-signals",
-		"type": "haxelib",
-		"version": "3.0.0"
-	}
     {
       "name": "compiletime",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "format",
       "type": "haxelib",
       "version": null
     },
@@ -81,12 +81,6 @@
       "version": "1.4.0"
     },
     {
-      "name": "format",
-      "type": "git",
-      "url": "https://github.com/HaxeFoundation/format",
-      "ref": "master"
-    }
-    {
       "name": "hxdiscord_rpc",
       "type": "git",
       "dir": null,
@@ -99,6 +93,13 @@
       "dir": null,
       "ref": "master",
       "url": "https://github.com/FNF-CNE-Devs/hscript-improved"
+    },
+	{
+      "name": "format",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/HaxeFoundation/format"
     },
 	{
       "name": "markdown",
