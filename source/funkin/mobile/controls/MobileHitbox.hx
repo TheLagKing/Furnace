@@ -5,7 +5,7 @@ import flixel.util.FlxDestroyUtil;
 import flixel.tweens.FlxEase;
 import openfl.display.BitmapData;
 import openfl.display.Shape;
-import mobile.flixel.FlxButton;
+import funkin.mobile.flixel.FlxButton;
 import funkin.mobile.flixel.input.FlxMobileInputManager;
 import funkin.mobile.flixel.input.FlxMobileInputID;
 
